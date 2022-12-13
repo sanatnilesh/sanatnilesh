@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 About Me:
-<h5>🔭 
+<h5> 
 <h5>🌱 I’m currently learning new technology such as AWS in cloud and machine learning(data science) </h5>
 <h5> ✨ In my free time I love to solve problems on leetCode Platform using data structure and Algorithm </h5>
 </div>
