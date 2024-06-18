@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 -->
 
 <div id="blog" align="center">
+      
       Please visit my website: https://sanatnilesh.github.io/
+
 </div>
 
 <div id="header" align="center">
