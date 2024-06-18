@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div id="blog" align="center">
+<div id="website" align="center">
       
-      Please visit my website: https://sanatnilesh.github.io/
+<a href="https://sanatnilesh.github.io/"> Sanat </a>
 
 </div>
 
